@@ -22,11 +22,16 @@
   </modules>
 
   <distributionManagement>
-        <repository>
-        <id>site-server</id>
+    <repository>
+        <id>releases</id>
         <name>Test Project Site</name>
-        <url>file:///tmp/maven-project-site</url>
+       <url>http://13.229.247.82:8081/repository/maven-releases/</url>
     </repository>
+    <snapshotRepository>
+    <id>snapshots</id>
+    <!-- CHANGE HERE by your team nexus server -->
+    <url>http://13.229.247.82:8081/repository/maven-snapshots/</url>
+  </snapshotRepository>
   </distributionManagement>
 
   <build>
