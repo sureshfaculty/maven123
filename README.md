@@ -1,11 +1,5 @@
 # maven-project
 learning jenkins CI
   checking ci
+suresh is good at maths
 
-
-ccccc
-kkkkkkk
-pppppppagfsdgjfgjkgfkfgdgjkghkghgf
-hjfds,gjsd.gkjgkld
-gdfklggkj;lg;l
-yuibyibyti
